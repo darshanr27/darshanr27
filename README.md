@@ -14,22 +14,6 @@ I am a Final year UG student from [Adichunchanagiri Institute of Technology](htt
 
 <br />
 
-### Connect with me:
-
-  <a href="https://www.linkedin.com/in/darshanr27/" target="_blank">
-    <img align="left" alt="Darshan R | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/darshan_r_27" target="_blank">
-    <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/darshan_r_27/" target="_blank">
-    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:darshandarsh27blr@gmail.com" target="_blank">
-    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a>
-
-<br />
 
 ### Languages and Tools:
 
@@ -55,8 +39,28 @@ I am a Final year UG student from [Adichunchanagiri Institute of Technology](htt
   
   <br />
   
+  
+### Connect with me:
+
+  <a href="https://www.linkedin.com/in/darshanr27/" target="_blank">
+    <img align="left" alt="Darshan R | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://twitter.com/darshan_r_27" target="_blank">
+    <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/darshan_r_27/" target="_blank">
+    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:darshandarsh27blr@gmail.com" target="_blank">
+    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
+
+<br />
+
   ---
   *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats*
+  
+  [![HitCount](http://hits.dwyl.com/darshanr27/darshanr27.svg)](http://hits.dwyl.com/darshanr27/darshanr27)
 
 <!--
 [twitter]: https://twitter.com/darshan_r_27
