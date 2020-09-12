@@ -1,8 +1,11 @@
 ### Hi there, I'm Darshan R <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">
 
+---
+
 I am a Final year UG student from [Adichunchanagiri Institute of Technology](https://aitckm.in/), Chikmagalur.<br/>By interest I'm learning coding. Currrently I'm into web development. Sometimes I can do design also.
 
----
+<br />
+
 - 🌱 I’m currently learning Web development
 - 👯 I’m looking to collaborate on Production Websites 
 - 💬 Ask me about Something
@@ -34,7 +37,6 @@ I am a Final year UG student from [Adichunchanagiri Institute of Technology](htt
 <br />
 <br />
 
----
 
   <summary>:zap: Github Stats</summary>
 
@@ -44,6 +46,7 @@ I am a Final year UG student from [Adichunchanagiri Institute of Technology](htt
   
   <br />
   
+  ---
   *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats*
 
 
