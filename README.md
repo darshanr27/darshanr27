@@ -1,10 +1,11 @@
-### Hi, I'm Darshan R 👋
+### Hi there, I'm Darshan R 👋
 
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Production Websites 
 - 💬 Ask me about Something
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can design things myself if needed
+
 <br />
 
 ### Connect with me:
@@ -35,7 +36,6 @@
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="Darshan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=darshanr27&show_icons=true&hide_border=true" />
-  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanr27&layout=compact)](https://github.com/darshanr27/github-readme-stats)
   
   <br />
