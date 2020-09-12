@@ -35,9 +35,13 @@
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="Darshan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=darshanr27&show_icons=true&hide_border=true" />
+  
   <br />
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanr27&layout=compact)](https://github.com/darshanr27/github-readme-stats)
+  
   <br />
+  
   *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats*
 
 
