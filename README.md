@@ -16,7 +16,9 @@ I am a Final year UG student from [Adichunchanagiri Institute of Technology](htt
 
 ### Connect with me:
 
-   [<img align="left" alt="Darshan R | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />][linkedin]
+  <a href="https://www.linkedin.com/in/darshanr27/">
+   <img align="left" alt="Darshan R | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+   </a> &nbsp;&nbsp;
   <a href="https://twitter.com/darshan_r_27" target="_blank">
     <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
   </a> &nbsp;&nbsp;
