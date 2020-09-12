@@ -1,4 +1,4 @@
-### Hi there, I'm Darshan R 👋
+### Hi there, I'm Darshan R <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">
 
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Production Websites 
