@@ -16,16 +16,14 @@ I am a Final year UG student from [Adichunchanagiri Institute of Technology](htt
 
 ### Connect with me:
 
- <a href="https://www.linkedin.com/in/darshanr27/">
-    <img align="left" alt="Darshan R | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/darshan_r_27">
+   [<img align="left" alt="Darshan R | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />][linkedin]
+  <a href="https://twitter.com/darshan_r_27" target="_blank">
     <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/darshan_r_27/">
+  <a href="https://www.instagram.com/darshan_r_27/" target="_blank">
     <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:darshandarsh27blr@gmail.com">
+  <a href="mailto:darshandarsh27blr@gmail.com" target="_blank">
     <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
 
