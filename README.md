@@ -1,4 +1,4 @@
-### Hi there, I'm Darshan R <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">
+### Hi there, I'm Darshan R <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px">
 
 ---
 
@@ -7,7 +7,7 @@ I am a Final year UG student from [Adichunchanagiri Institute of Technology](htt
 <br />
 
 - 🌱 I’m currently learning Web development
-- 👯 I’m looking to collaborate on Production Websites 
+- 👯 I’m looking to collaborate on Production Websites
 - 💬 Ask me about Something
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can design things myself if needed
@@ -21,7 +21,6 @@ I am a Final year UG student from [Adichunchanagiri Institute of Technology](htt
 [<img align="left" alt="darshanr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
 
 ### Languages and Tools:
 
@@ -37,7 +36,6 @@ I am a Final year UG student from [Adichunchanagiri Institute of Technology](htt
 <br />
 <br />
 
-
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="Darshan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=darshanr27&show_icons=true&hide_border=true" />
@@ -48,9 +46,6 @@ I am a Final year UG student from [Adichunchanagiri Institute of Technology](htt
   
   ---
   *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats*
-
-
-
 
 [twitter]: https://twitter.com/darshan_r_27
 [instagram]: https://instagram.com/darshan_r_27
