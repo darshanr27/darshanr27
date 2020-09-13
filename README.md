@@ -17,11 +17,13 @@ I am a Final year UG student from [Adichunchanagiri Institute of Technology](htt
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/react.png" />
+<img align="left" alt="C" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/c.png" />
+<img align="left" alt="React" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/react.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/terminal.png" />
