@@ -22,7 +22,7 @@ I am a Final year UG student from [Adichunchanagiri Institute of Technology](htt
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/react.png" />
 <img align="left" alt="C" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/c.png" />
-<img align="left" alt="React" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/react.png" />
+<img align="left" alt="Python" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/python.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/github.png" />
