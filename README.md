@@ -26,7 +26,6 @@ I am a Final year UG student from [Adichunchanagiri Institute of Technology](htt
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/terminal.png" />
 
 <br />
 <br />
