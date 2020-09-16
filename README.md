@@ -36,7 +36,7 @@ I am a Final year UG student from [Adichunchanagiri Institute of Technology](htt
   
   &nbsp;&nbsp;
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanr27&layout=compact)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanr27&layout=compact)](https://github.com/darshanr27/github-readme-stats)
   
   <br />
   
