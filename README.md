@@ -29,8 +29,9 @@ I am a Final year UG student from [Adichunchanagiri Institute of Technology](htt
 
 <br />
 <br />
+<br />
 
-  <summary>:zap: Github Stats</summary>
+  
 
   <img align="left" alt="Darshan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=darshanr27&show_icons=true&hide_border=true" />
   
