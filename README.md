@@ -2,7 +2,7 @@
 
 ---
 
-I am a Final year UG student from [Adichunchanagiri Institute of Technology](https://aitckm.in/), Chikmagalur.<br/>By interest I'm learning coding. Currrently I'm into web development. Sometimes I can do design also.
+I am a Final year UG student from [Adichunchanagiri Institute of Technology](https://aitckm.in/), Chikmagalur. By interest I'm learning coding, I write blogs and sometimes I do design. Also I'm a self learner.<br>As I'm studying in Mechanical department but I'm interested in tech field, so I learn about the tech from the internet. I use the online resources it may be YouTube, Google, Udemy, Hackerrank or such like things to educate myself in tech. I want to make my career in tech field. 
 
 <br />
 
