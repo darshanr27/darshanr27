@@ -10,7 +10,7 @@ I am a Final year UG student from [Adichunchanagiri Institute of Technology](htt
 - 👯 I’m looking to collaborate on Production Websites
 - 💬 Ask me about Something
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I don't know which color to select for my project, in confuse everytime
+- ⚡ Fun fact: I don't know which color to select for my project, in confusion everytime
 
 <br />
 
