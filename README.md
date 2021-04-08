@@ -58,9 +58,10 @@ I am a Final year UG student from [Adichunchanagiri Institute of Technology](htt
   </a>
 
 <br />
+<br />
 
 <!-- retro visitor counter -->  
-<p align="center">   
+<p align="left">   
   <img src="https://profile-counter.glitch.me/darshanr27/count.svg" />  
 </p>
 
