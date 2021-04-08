@@ -59,6 +59,11 @@ I am a Final year UG student from [Adichunchanagiri Institute of Technology](htt
 
 <br />
 
+<!-- retro visitor counter -->  
+<p align="center">   
+  <img src="https://profile-counter.glitch.me/darshanr27/count.svg" />  
+</p>
+
   ---
   *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats*
   
