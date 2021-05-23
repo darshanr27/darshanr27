@@ -2,15 +2,14 @@
 
 ---
 
-I am a Final year UG student from [Adichunchanagiri Institute of Technology](https://aitckm.in/), Chikmagalur. By interest I'm learning coding, I write blogs and sometimes I do design. Also I'm a self learner. As I'm studying in Mechanical department but I'm interested in tech field, so I learn about the tech from the internet.
+I am a Final year UG student from [Adichunchanagiri Institute of Technology](https://aitckm.in/), Chikkamagalur. By interest I'm learning coding, I write blogs and sometimes I do design. 
 
 <br />
 
-- 🌱 I’m currently learning Web development
-- 👯 I’m looking to collaborate on Production Websites
-- 💬 Ask me about Something
+- 🌱 I’m currently learning DSA
+- 👯 I’m looking to collaborate on Web Development Projects
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I don't know which color to select for my project, in confusion everytime
+- ⚡ Fun fact: I'm in confusion, can you help me to choose the color for the website design
 
 <br />
 
@@ -40,20 +39,26 @@ I am a Final year UG student from [Adichunchanagiri Institute of Technology](htt
   <br />
   
   
-### Connect with me:
+### Connect with me: <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
+  <a href="https://www.darshanr.me" target="_blank">
+    <img align="left" alt="Darshan R | Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
+  </a> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/darshanr27/" target="_blank">
     <img align="left" alt="Darshan R | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://twitter.com/darshan_r_27" target="_blank">
-    <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+    <img align="left" alt="Darshan R | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/darshan_r_27/" target="_blank">
-    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+    <img align="left" alt="Darshan R | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:darshandarsh27blr@gmail.com" target="_blank">
-    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Darshan R | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
+  <a href="https://drive.google.com/file/d/1nIrmiFfz1xhNJTSSQZuel326-Gm34UrX/view?usp=sharing">
+    <img align="left" alt="Darshan R | Resume" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
+  </a> &nbsp;&nbsp;
 
 <br />
 <br />
