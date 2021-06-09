@@ -2,8 +2,6 @@
 
 ---
 
-I am a Final year UG student from [Adichunchanagiri Institute of Technology](https://aitckm.in/), Chikkamagalur. By interest I'm learning coding, I write blogs and sometimes I do design. 
-
 <br />
 
 - 🌱 I’m currently learning DSA
@@ -29,56 +27,68 @@ I am a Final year UG student from [Adichunchanagiri Institute of Technology](htt
 
 
 <!-- Profile Trophy -->
-### 🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=darshanr27)](https://github.com/ryo-ma/github-profile-trophy)
+### 🏆 GitHub Profile Trophy:
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=darshanr27&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+</a>
 
 
 <!--   Stats -->
-### 📊 GitHub Stats
-![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=darshanr27&theme=light&show_icons=true)
+### 📊 GitHub Stats:
+![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=darshanr27&theme=nord&show_icons=true&count_private=true)
   
   
 <!--   Top Languages Using -->
-### 👨‍💻 Top Languages Used*
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanr27&layout=compact)](https://github.com/darshanr27/github-readme-stats)
+### 👨‍💻 Top Languages Used*:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshanr27&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darshanr27&theme=nord_dark)
 
 
 <!--   GitHub stats graph -->
-### 📈 GitHub Stats Graph
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=darshanr27)
+### 📈 GitHub Activity Graph:
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=darshanr27&theme=github)
+
+ <br> 
+ 
+ <hr>
+ 
+ <br>
+
+  <div align="center">
+  <h3><b>😄 Can Connect With On</b></h3>
+  </div>
+<p align="center">
+<a href="https://www.darshanr.me" target="_blank">
+  <img align="center" alt="Darshan R | Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/darshanr27/" target="_blank">
+  <img align="center" alt="Darshan R | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://twitter.com/darshan_r_27" target="_blank">
+  <img align="center" alt="Darshan R | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/darshan_r_27/" target="_blank">
+  <img align="center" alt="Darshan R | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:darshandarsh27blr@gmail.com" target="_blank">
+  <img align="center" alt="Darshan R | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://drive.google.com/file/d/1itefnCEZFZ0BCqiLgnveoP2nT7ImZjzv/view?usp=sharing">
+    <img align="center" alt="Darshan R | Resume" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
+</a> &nbsp;&nbsp;
+<p>
   
+<br>
   
-### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">Connect with me:
-
-  <a href="https://www.darshanr.me" target="_blank">
-    <img align="left" alt="Darshan R | Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/darshanr27/" target="_blank">
-    <img align="left" alt="Darshan R | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/darshan_r_27" target="_blank">
-    <img align="left" alt="Darshan R | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/darshan_r_27/" target="_blank">
-    <img align="left" alt="Darshan R | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:darshandarsh27blr@gmail.com" target="_blank">
-    <img align="left" alt="Darshan R | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a>
-  <a href="https://drive.google.com/file/d/1itefnCEZFZ0BCqiLgnveoP2nT7ImZjzv/view?usp=sharing">
-    <img align="left" alt="Darshan R | Resume" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
-  </a> &nbsp;&nbsp;
-
-<br />
-<br />
-
-### Profile visitor count:
-
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
 <!-- retro visitor counter -->  
-<p align="left">   
+<p align="center" >   
   <img src="https://profile-counter.glitch.me/darshanr27/count.svg" />  
 </p>
-
+   
   ---
   *\*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats*
   
