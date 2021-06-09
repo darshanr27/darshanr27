@@ -14,7 +14,7 @@ I am a Final year UG student from [Adichunchanagiri Institute of Technology](htt
 <br />
 
 
-### Languages and Tools:
+### 🧰 Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/css.png" />
@@ -26,20 +26,29 @@ I am a Final year UG student from [Adichunchanagiri Institute of Technology](htt
 
 <br />
 <br />
-<br />
 
-  <!--   Stats -->
 
-  ![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=darshanr27&theme=light&show_icons=true)
+<!-- Profile Trophy -->
+### 🏆 GitHub Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=darshanr27)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<!--   Stats -->
+### 📊 GitHub Stats
+![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=darshanr27&theme=light&show_icons=true)
   
-  &nbsp;&nbsp;
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanr27&layout=compact)](https://github.com/darshanr27/github-readme-stats)
+<!--   Top Languages Using -->
+### 👨‍💻 Top Languages Used*
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanr27&layout=compact)](https://github.com/darshanr27/github-readme-stats)
+
+
+<!--   GitHub stats graph -->
+### 📈 GitHub Stats Graph
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=darshanr27)
   
-  <br />
   
-  
-### Connect with me: <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">Connect with me:
 
   <a href="https://www.darshanr.me" target="_blank">
     <img align="left" alt="Darshan R | Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
@@ -56,7 +65,7 @@ I am a Final year UG student from [Adichunchanagiri Institute of Technology](htt
   <a href="mailto:darshandarsh27blr@gmail.com" target="_blank">
     <img align="left" alt="Darshan R | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
-  <a href="https://drive.google.com/file/d/1nIrmiFfz1xhNJTSSQZuel326-Gm34UrX/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1itefnCEZFZ0BCqiLgnveoP2nT7ImZjzv/view?usp=sharing">
     <img align="left" alt="Darshan R | Resume" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
   </a> &nbsp;&nbsp;
 
@@ -71,7 +80,7 @@ I am a Final year UG student from [Adichunchanagiri Institute of Technology](htt
 </p>
 
   ---
-  *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats*
+  *\*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats*
   
 
 <!--
