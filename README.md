@@ -55,7 +55,7 @@
  <br>
 
   <div align="center">
-  <h3><b>😄 Can Connect With On</b></h3>
+  <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
 <p align="center">
 <a href="https://www.darshanr.me" target="_blank">
@@ -92,10 +92,3 @@
   ---
   *\*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats*
   
-
-<!--
-[twitter]: https://twitter.com/darshan_r_27
-[instagram]: https://instagram.com/darshan_r_27
-[linkedin]: https://linkedin.com/in/darshanr27
--->
-
