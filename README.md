@@ -92,3 +92,6 @@
   ---
   *\*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats*
   
+  ---
+  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
+  
