@@ -4,7 +4,7 @@
 
 <br />
 
-- 🌱 I’m currently learning DSA
+- 🌱 Currently I'm learnig Full Stack Development
 - 👯 I’m looking to collaborate on Web Development Projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm in confusion, can you help me to choose the color for the website design
@@ -73,7 +73,7 @@
 <a href="mailto:darshandarsh27blr@gmail.com" target="_blank">
   <img align="center" alt="Darshan R | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://drive.google.com/file/d/1itefnCEZFZ0BCqiLgnveoP2nT7ImZjzv/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1YvX6b-NGbM5O4g_QjfDzfl2gveXYYjq5/view?usp=sharing">
     <img align="center" alt="Darshan R | Resume" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
 </a> &nbsp;&nbsp;
 <p>
