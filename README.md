@@ -76,7 +76,7 @@
 <a href="mailto:darshandarsh27blr@gmail.com" target="_blank">
   <img align="center" alt="Darshan R | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.darshanr.me/darshanr.github.io/">
+<a href="https://www.darshanr.me/resume">
     <img align="center" alt="Darshan R | Resume" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
 </a> &nbsp;&nbsp;
 <p>
