@@ -2,9 +2,9 @@
 
 ---
 
-<br />
 
-<a href="https://app.daily.dev/dsr"><img src="https://api.daily.dev/devcards/d358038cee764e878f369f1fb6d085cc.png?r=cxx" width="300"  align="right" alt="Darshan R's Dev Card"/></a>
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/darshanr27/darshanr27/blob/master/devcard.svg" width="300" align="right" alt="Darshan R's Dev Card"/></a>
 
 <br />
 
@@ -13,6 +13,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm in confusion, can you help me to choose the color for the website design
 
+<br />
+<br />
+<br />
 <br />
 
 
