@@ -4,6 +4,10 @@
 
 <br />
 
+<a href="https://app.daily.dev/dsr"><img src="https://api.daily.dev/devcards/d358038cee764e878f369f1fb6d085cc.png?r=cxx" width="300"  align="right" alt="Darshan R's Dev Card"/></a>
+
+<br />
+
 - 🌱 Currently I'm learnig Full Stack Development
 - 👯 I’m looking to collaborate on Web Development Projects
 - 😄 Pronouns: He/Him
