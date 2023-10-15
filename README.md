@@ -70,7 +70,7 @@
   <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
 <p align="center">
-<a href="https://www.darshanr.me" target="_blank">
+<a href="https://www.darshanr.in" target="_blank">
   <img align="center" alt="Darshan R | Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/darshanr27/" target="_blank">
@@ -85,7 +85,7 @@
 <a href="mailto:darshandarsh27blr@gmail.com" target="_blank">
   <img align="center" alt="Darshan R | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.darshanr.me/resume">
+<a href="https://www.darshanr.in/resume">
     <img align="center" alt="Darshan R | Resume" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
 </a> &nbsp;&nbsp;
 <p>
