@@ -58,7 +58,8 @@
 ### 📈 GitHub Activity Graph:
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=darshanr27&theme=github)
 
-[![@darshanr's Holopin board](https://holopin.io/api/user/board?user=darshanr)](https://holopin.io/@darshanr)
+[![An image of @darshanr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darshanr)](https://holopin.io/@darshanr)
+
 
  <br> 
  
