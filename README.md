@@ -3,7 +3,6 @@
 ---
 
 
-<a href="https://app.daily.dev/dsr"><img src="https://github.com/darshanr27/darshanr27/blob/master/devcard.svg" width="300" align="right" alt="Darshan R's Dev Card"/></a>
 
 <br />
 
