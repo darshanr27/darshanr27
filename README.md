@@ -3,12 +3,12 @@
 ---
 
 
-
-<a href="https://api.daily.dev/get?r=dsr"><img src="https://github.com/darshanr27/darshanr27/blob/master/devcard.svg" width="300" align="right" alt="Darshan R's Dev Card"/></a>
+<a href="https://app.daily.dev/dsr"><img src="https://github.com/darshanr27/darshanr27/blob/master/devcard.svg" width="300" align="right" alt="Darshan R's Dev Card"/></a>
 
 <br />
 
-- 🌱 Currently I'm learning Full Stack Development
+- 💻 Currently I'm working as a Python Developer
+- 🌱 I'm learning Full Stack Development
 - 👯 I’m looking to collaborate on Web Development Projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm in confusion, can you help me to choose the color for the website design
@@ -21,8 +21,8 @@
 
 ### 🧰 Languages and Tools:
 
-<img align="left" alt="Java" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/java.png" />
 <img align="left" alt="Python" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/python.png" />
+<img align="left" alt="Java" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/java.png" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/javascript.png" />
@@ -56,8 +56,11 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=darshanr27&theme=github)
+ [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=darshanr27&theme=github)](https://github.com/darshanr27)
 
+ <br>
+ <br>
+ 
 [![An image of @darshanr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darshanr)](https://holopin.io/@darshanr)
 
 
