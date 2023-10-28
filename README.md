@@ -2,8 +2,6 @@
 
 ---
 
-
-
 <br />
 
 - 💻 Currently I'm working as a Python Developer
@@ -13,10 +11,6 @@
 - ⚡ Fun fact: I'm in confusion, can you help me to choose the color for the website design
 
 <br />
-<br />
-<br />
-<br />
-
 
 ### 🧰 Languages and Tools:
 
