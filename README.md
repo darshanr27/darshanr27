@@ -1,106 +1,82 @@
-### Hi there, I'm Darshan R <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px">
+<h1 align="center">Hi, I'm Darshan 👋</h1>
+<h3 align="center">Mechanical Engineer turned Full-Stack Developer, building with AI in the loop</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Process Automation+%7C+n8n+%7C+JavaScript+%7C+MongoDB;Building+Full-Stack+Apps+with+AI;FastAPI+%2B+React+%2B+PostgreSQL;Currently+grinding+DSA+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
 
 ---
 
-<br />
+### 🚀 About Me
 
-- 💻 Currently I'm working as a Python Developer
-- 🌱 I'm learning Full Stack Development
-- 👯 I’m looking to collaborate on Web Development Projects
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm in confusion, can you help me to choose the color for the website design
+- 💼 Currently working at **InTimeTec**, building automation pipelines with **n8n, JavaScript, and MongoDB**
+- 🌱 Actively transitioning into **Full-Stack Development with AI**
+- 🧑‍💻 Background: 3.3 years at **TCS** — Python & PostgreSQL on ETL pipelines
+- 🏍️ Off the keyboard: travelling, badminton, and fitness
+- 📫 Reach me: **darshandarsh27blr@gmail.com**
 
-<br />
+---
 
-### 🧰 Languages and Tools:
+### 🧰 Tech Stack
 
-<img align="left" alt="Python" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/python.png" />
-<img align="left" alt="Java" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/java.png" />
-<img align="left" alt="HTML5" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/sql.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/github.png" />
-<img align="left" alt="Figma" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/figma.png" />
+**Languages**
+![Python](https://img.shields.io/badge/-Python-1a1b27?style=for-the-badge&logo=python&logoColor=7AA2F7)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=E0AF68)
+![SQL](https://img.shields.io/badge/-SQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=BB9AF7)
+![HTML5](https://img.shields.io/badge/-HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=F7768E)
+![CSS3](https://img.shields.io/badge/-CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=7DCFFF)
 
-<br />
-<br />
+**Frameworks & Runtime**
+![FastAPI](https://img.shields.io/badge/-FastAPI-1a1b27?style=for-the-badge&logo=fastapi&logoColor=9ECE6A)
+![React](https://img.shields.io/badge/-React-1a1b27?style=for-the-badge&logo=react&logoColor=7AA2F7)
 
+**Data & Automation**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=7AA2F7)
+![MongoDB](https://img.shields.io/badge/-MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=9ECE6A)
+![n8n](https://img.shields.io/badge/-n8n-1a1b27?style=for-the-badge&logo=n8n&logoColor=F7768E)
+![Supabase](https://img.shields.io/badge/-Supabase-1a1b27?style=for-the-badge&logo=supabase&logoColor=9ECE6A)
 
-<!-- Profile Trophy -->
-### 🏆 GitHub Profile Trophy:
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=darshanr27&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
-</a>
+**Tools**
+![Git](https://img.shields.io/badge/-Git-1a1b27?style=for-the-badge&logo=git&logoColor=F7768E)
+![GitHub](https://img.shields.io/badge/-GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=c0caf5)
+![VS Code](https://img.shields.io/badge/-VS%20Code-1a1b27?style=for-the-badge&logo=visual-studio-code&logoColor=7AA2F7)
+![Figma](https://img.shields.io/badge/-Figma-1a1b27?style=for-the-badge&logo=figma&logoColor=E0AF68)
 
+---
 
-<!--   Stats -->
-### 📊 GitHub Stats:
-![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=darshanr27&theme=nord&show_icons=true&count_private=true)
-  
-  
-<!--   Top Languages Using -->
-### 👨‍💻 Top Languages Used*:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshanr27&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darshanr27&theme=nord_dark)
-
-
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
- [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=darshanr27&theme=github)](https://github.com/darshanr27)
-
- <br>
- <br>
+### 📊 GitHub Stats
  
-[![An image of @darshanr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darshanr)](https://holopin.io/@darshanr)
-
-
- <br> 
- 
- <hr>
- 
- <br>
-
-  <div align="center">
-  <h3><b>😄 Can Connect With Me On</b></h3>
-  </div>
 <p align="center">
-<a href="https://www.darshanr.in" target="_blank">
-  <img align="center" alt="Darshan R | Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/darshanr27/" target="_blank">
-  <img align="center" alt="Darshan R | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://twitter.com/darshan_r_27" target="_blank">
-  <img align="center" alt="Darshan R | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/darshan_r_27/" target="_blank">
-  <img align="center" alt="Darshan R | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:darshandarsh27blr@gmail.com" target="_blank">
-  <img align="center" alt="Darshan R | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.darshanr.in/resume">
-    <img align="center" alt="Darshan R | Resume" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
-</a> &nbsp;&nbsp;
-<p>
-  
-<br>
-  
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/darshanr27/count.svg" />  
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=darshanr27&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanr27&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
-   
-  ---
-  *\*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats*
-  
-  ---
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
-  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=darshanr27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshanr27&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshanr27&theme=tokyonight" alt="Profile Details" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.darshanr.in"><img src="https://img.shields.io/badge/-Portfolio-1a1b27?style=for-the-badge&logo=todoist&logoColor=7AA2F7" /></a>
+  <a href="https://www.linkedin.com/in/darshanr27/"><img src="https://img.shields.io/badge/-LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" /></a>
+  <a href="https://twitter.com/darshan_r_27"><img src="https://img.shields.io/badge/-Twitter-1a1b27?style=for-the-badge&logo=twitter&logoColor=7AA2F7" /></a>
+  <a href="https://www.instagram.com/darshan_r_27/"><img src="https://img.shields.io/badge/-Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=F7768E" /></a>
+  <a href="mailto:darshandarsh27blr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=F7768E" /></a>
+  <a href="https://www.darshanr.in/resume"><img src="https://img.shields.io/badge/-Resume-1a1b27?style=for-the-badge&logo=readdotcv&logoColor=9ECE6A" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=darshanr27&label=Profile%20Views&color=7AA2F7&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
+<p align="center"><i>⭐ If you found this profile template useful, feel free to star the repo!</i></p>
