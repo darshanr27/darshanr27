@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Darshan 👋</h1>
 <h3 align="center">Mechanical Engineer turned Full-Stack Developer, building with AI in the loop</h3>
-
+ 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Process Automation+%7C+n8n+%7C+JavaScript+%7C+MongoDB;Building+Full-Stack+Apps+with+AI;FastAPI+%2B+React+%2B+PostgreSQL;Currently+grinding+DSA+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Process Automation+%7C+n8n+%7C+JavaScript+%7C+MongoDB;Building+Full-Stack+Apps+with+AI;FastAPI+%2B+React+%2B+PostgreSQL;Currently+grinding+DSA+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,6 +10,7 @@
 ### 🚀 About Me
 
 - 💼 Currently working at **InTimeTec**, building automation pipelines with **n8n, JavaScript, and MongoDB**
+- 🚀 **4.5+ years** of professional experience across engineering and software roles
 - 🌱 Actively transitioning into **Full-Stack Development with AI**
 - 🧑‍💻 Background: 3.3 years at **TCS** — Python & PostgreSQL on ETL pipelines
 - 🏍️ Off the keyboard: travelling, badminton, and fitness
@@ -47,9 +48,10 @@
 ### 📊 GitHub Stats
  
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=darshanr27&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanr27&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=darshanr27&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=darshanr27&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=darshanr27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
@@ -57,7 +59,19 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshanr27&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshanr27&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshanr27&theme=tokyonight" alt="Profile Details" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+ 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darshanr27/darshanr27/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darshanr27/darshanr27/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/darshanr27/darshanr27/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
