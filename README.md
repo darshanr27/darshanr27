@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Darshan 👋</h1>
-<h3 align="center">Mechanical Engineer turned Full-Stack Developer, building with AI in the loop</h3>
+<h3 align="center">Full-Stack Developer, building with AI in the loop</h3>
  
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Process+Automation+%7C+n8n+%7C+JavaScript+%7C+MongoDB;Building+Full-Stack+Apps+with+AI;FastAPI+%2B+React+%2B+PostgreSQL;Currently+grinding+DSA+%F0%9F%94%A5" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 - 💼 Currently working at [**InTimeTec**](https://www.intimetec.com/), building automation pipelines with **n8n, JavaScript, and MongoDB**
 - 🚀 **4.5+ years** of professional experience across engineering and software roles
 - 🌱 Actively transitioning into **Full-Stack Development with AI**
-- 🧑‍💻 Background: 3.3 years at [**TCS**](https://www.tcs.com/) — Python & PostgreSQL on ETL pipelines
+- 🧑‍💻 Background: 3.3 years at [**TCS**](https://www.tcs.com/) - Python & PostgreSQL on ETL pipelines
 - 🏍️ Off the keyboard: travelling, badminton, and fitness
 - 📫 Reach me: **darshandarsh27blr@gmail.com**
 
